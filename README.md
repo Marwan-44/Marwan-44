@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently working on building my Android development skills <br>I'm looking to collaborate on Android or mobile development projects<br>I'm looking for help with Android internship opportunities<br>I'm currently learning Kotlin, Android SDK, and the Meta Android Developer Professional Certificate<br>Ask me about Android development, C++, or algorithms<br>
-
+I'm currently building my Flutter development skills<br>
+I'm looking to collaborate on Flutter and mobile development projects<br>
+I'm open to Flutter and mobile development internship opportunities<br>
+I'm currently learning Dart and the Flutter SDK<br>
+Ask me about Flutter development, C++, or algorithms
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-osama-96145b298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marwanosama413@gmail.com) 
